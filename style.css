@@ -1,0 +1,11 @@
+hr{
+    width: 10%;
+    border-style: dotted none none;
+   border-width: 8px;
+    color: beige;
+    
+}
+
+h3, h1{
+    color: #0f4d4d;
+}
